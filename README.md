@@ -23,3 +23,4 @@
 * **Giảng viên**: PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
 ## ĐỒ ÁN CUỐI KỲ
+![image](https://github.com/PhuocSang16/CS519.O11/assets/91709237/8caf6142-1ba8-4370-bacc-171d37e0961e)
